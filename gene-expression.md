@@ -1,5 +1,3 @@
-Untitled
-================
 
 1.  INSTALLING PACKAGES
 
@@ -42,7 +40,7 @@ BiocManager::install("DESeq2", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 #Allows access to and integration of biological data from various sources, facilitating the retrieval of information about genes, sequences, and annotations.
@@ -76,7 +74,7 @@ BiocManager::install("biomaRt", dependencies = T, ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 #dplyr - to manipulate data frames
@@ -89,7 +87,7 @@ install.packages("dplyr", ask =F )
     ## pacote 'dplyr' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 #pheatmap - to create some graphs
@@ -102,7 +100,7 @@ install.packages("pheatmap", ask =F)
     ## pacote 'pheatmap' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 #Creates nice looking color  palettes especially for thematic maps
@@ -115,7 +113,7 @@ install.packages("RColorBrewer", ask =F )
     ## pacote 'RColorBrewer' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 # manipulation of data.frame
@@ -128,7 +126,7 @@ install.packages("reshape2", dependencies=T, ask =F )
     ## pacote 'reshape2' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 # creates graphics
@@ -141,7 +139,7 @@ install.packages("ggplot2", ask = F)
     ## pacote 'ggplot2' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 # set ggplot2 parameters
@@ -154,7 +152,7 @@ install.packages("ggrepel", ask =F )
     ## pacote 'ggrepel' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 # creates graphics with analysis
@@ -188,7 +186,7 @@ BiocManager::install ("vsn", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 # works with string layout
@@ -201,7 +199,7 @@ install.packages("stringr", ask = F)
     ## pacote 'stringr' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 # Works with data.frame
@@ -214,7 +212,7 @@ install.packages("reshape2", ask = F)
     ## pacote 'reshape2' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 # access to github packages
@@ -227,7 +225,7 @@ install.packages("devtools", ask =F )
     ## pacote 'devtools' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 # Calculate PCA
@@ -240,7 +238,7 @@ install.packages("FactoMineR", ask =F )
     ## pacote 'FactoMineR' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 # Work PCA data
@@ -293,7 +291,7 @@ BiocManager::install("GEOquery", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 2.  LOADING PACKAGES
 
@@ -17272,6 +17270,8 @@ ggplot(df) +
 3.2 Dataset normalization
 
 ``` r
+knitr::opts_chunk$set(echo = TRUE)
+
 # variance stabilizer transformation
 vsd <- vst(dds, blind=T)
 
@@ -17298,6 +17298,8 @@ legend(x = "top",inset = 0,
 ![](gene-expression_files/figure-gfm/unnamed-chunk-39-1.png)<!-- -->
 
 ``` r
+knitr::opts_chunk$set(echo = TRUE)
+
 # Plot graphic
 meanSdPlot(assay(vsd))
 ```
@@ -17312,6 +17314,8 @@ meanSdPlot (log(assay(dds)+1))
 ![](gene-expression_files/figure-gfm/unnamed-chunk-40-2.png)<!-- -->
 
 ``` r
+knitr::opts_chunk$set(echo = TRUE)
+
 # Calculate PCA plot
 pcaData <- plotPCA(vsd,
                    intgroup=c(condition), # if you have another covariable can put in intgroup
@@ -17340,6 +17344,8 @@ ggplot(pcaData,
 ![](gene-expression_files/figure-gfm/unnamed-chunk-41-1.png)<!-- -->
 
 ``` r
+knitr::opts_chunk$set(echo = TRUE)
+
 #check for outlier sample
 hclust(dist(pcaData[,1:2])) -> cluster
 
@@ -17358,6 +17364,8 @@ fviz_screeplot(res.pca, addlabels = TRUE)
 ![](gene-expression_files/figure-gfm/unnamed-chunk-43-1.png)<!-- -->
 
 ``` r
+knitr::opts_chunk$set(echo = TRUE)
+
 # Extract PCA values for each individual
 ind <- get_pca_ind(res.pca)
 
@@ -17389,6 +17397,8 @@ as.data.frame(colData(vsd)[chosen,]) -> PhenoTypes.lv
 ```
 
 ``` r
+knitr::opts_chunk$set(echo = TRUE)
+
 # perform association analysis with the transcriptome structure
 
 ind$coord -> svd.o
@@ -17553,6 +17563,8 @@ dds$sizeFactor
     ##                1.0917752
 
 ``` r
+knitr::opts_chunk$set(echo = TRUE)
+
 #plot size factors
 barplot(dds$sizeFactor, las =2)
 ```
@@ -17560,6 +17572,8 @@ barplot(dds$sizeFactor, las =2)
 ![](gene-expression_files/figure-gfm/unnamed-chunk-50-1.png)<!-- -->
 
 ``` r
+knitr::opts_chunk$set(echo = TRUE)
+
 # plot relation of sum of counts and effect size
 plot(x = dds$sizeFactor,
      y = log(apply(counts(dds), 2, sum)),
@@ -17575,6 +17589,8 @@ abline(lm( log(apply(counts(dds), 2, sum)) ~ dds$sizeFactor),
 4.2 Estimated gene-wise dispersion and fit curve
 
 ``` r
+knitr::opts_chunk$set(echo = TRUE)
+
 # plot gene-wise dispersion
 plotDispEsts(dds)
 ```
@@ -17604,6 +17620,8 @@ summary(res)
     ## [2] see 'independentFiltering' argument of ?results
 
 ``` r
+knitr::opts_chunk$set(echo = TRUE)
+
 # plot MA: represents the fold change by the mean
 plotMA (res)
 ```
@@ -17628,6 +17646,8 @@ resdata <- resdata[order(resdata$padj, decreasing= T), ]
 ```
 
 ``` r
+knitr::opts_chunk$set(echo = TRUE)
+
 # plot graphic
 ggplot (resdata,
         aes (x = log(baseMean), y = log2FoldChange, col = direction)) +
@@ -17750,17 +17770,56 @@ merge(assay(vsd)[rownames(input),], annot,
       by = "row.names") -> inputdata
 ```
 
-![](gene-expression_files/figure-gfm/f1-1.png)<!-- -->
-
 ``` r
-# saving figure output
-png ("C:/Users/gecre/OneDrive/Área de Trabalho/heatmap.png")
-print (f1)
-dev.off ()
+knitr::opts_chunk$set(echo = TRUE)
+
+# using annotation to name the genes
+merge(assay(vsd)[rownames(input),], annot,
+      by = "row.names") -> inputdata
+
+inputdata[,1] -> rownames(inputdata)
+
+inputdata[,colnames (dds)] -> inputdata
+
+#plot heatmap
+f1 <- pheatmap(inputdata,
+         scale = "row",
+         annotation_col = metadata[-1], #here, we take out the first column because is the name of sample ids
+         show_rownames = F,
+         show_colnames = F,
+         clustering_method = "ward.D2" , # you can change this method
+         clustering_distance_cols = "maximum") # you can change this method
+
+ print  (f1)
 ```
 
-    ## png 
-    ##   2
+![](gene-expression_files/figure-gfm/unnamed-chunk-62-1.png)<!-- -->
+
+``` r
+knitr::opts_chunk$set(echo = TRUE)
+
+resdata2 <- merge(resdata, annot, by ="row.names")
+resdata2$genelab <- ifelse (resdata2$direction %in% "n.s.",
+                           NA, resdata2$gene_name)
+
+# volcano plot
+ggplot (resdata2,
+        aes (x = log2FoldChange,
+             y = -log10(padj),
+             col = direction,
+             label = genelab)) +
+
+  geom_point() + ggrepel::geom_text_repel() +
+  theme_minimal() +
+  scale_color_manual("",values = c("cyan3", "gray", "firebrick3")) +
+  theme(axis.text.x = element_text(angle = 90)) +
+  geom_vline(xintercept = 0) +
+  geom_hline(yintercept = 0) +
+  labs (x = "Log(FC)", y = "-Log10(FDR)") +
+  theme (panel.border = element_rect(fill = NA)) -> f2
+
+  print (f2)
+```
 
     ## Warning: Removed 9058 rows containing missing values or values outside the scale range
     ## (`geom_text_repel()`).
@@ -17768,26 +17827,7 @@ dev.off ()
     ## Warning: ggrepel: 5843 unlabeled data points (too many overlaps). Consider
     ## increasing max.overlaps
 
-![](gene-expression_files/figure-gfm/f2-1.png)<!-- -->
-
-``` r
-# saving figure output
-png ("C:/Users/gecre/OneDrive/Área de Trabalho/volvano.png")
-print (f2)
-```
-
-    ## Warning: Removed 9058 rows containing missing values or values outside the scale range
-    ## (`geom_text_repel()`).
-
-    ## Warning: ggrepel: 5840 unlabeled data points (too many overlaps). Consider
-    ## increasing max.overlaps
-
-``` r
-dev.off ()
-```
-
-    ## png 
-    ##   2
+![](gene-expression_files/figure-gfm/unnamed-chunk-63-1.png)<!-- -->
 
 ``` r
 resdata2 <- resdata2[resdata2$padj <= n,]
@@ -17838,7 +17878,7 @@ BiocManager::install("clusterProfiler", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 #database of annotations for human genes, used for identifier conversion and functional annotations
@@ -17872,7 +17912,7 @@ BiocManager::install("org.Hs.eg.db", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 #database of annotations for mouse genes, used for identifier conversion and functional annotations
@@ -17906,7 +17946,7 @@ BiocManager::install("org.Mm.eg.db", ask = F )
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 #Facilitates the manipulation and querying of biological annotation databases in R
@@ -17940,7 +17980,7 @@ BiocManager::install("AnnotationDbi", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 #Allows visualization of gene expression data on metabolic pathway maps
@@ -17974,7 +18014,7 @@ BiocManager::install("pathview", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 #A graphing system for R that enables flexible and aesthetic data visualizations
@@ -17994,7 +18034,7 @@ install.packages("ggpubr", ask = F)
     ## pacote 'ggpubr' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp4aqz3B\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
 
 ``` r
 #A tool for visualizing the results of functional enrichment analyses, integrating with clusterProfiler
@@ -18020,8 +18060,10 @@ library(clusterProfiler)
     ## 
     ## Please cite:
     ## 
-    ## G Yu. Thirteen years of clusterProfiler. The Innovation. 2024,
-    ## 5(6):100722
+    ## Guangchuang Yu, Li-Gen Wang, Yanyan Han and Qing-Yu He.
+    ## clusterProfiler: an R package for comparing biological themes among
+    ## gene clusters. OMICS: A Journal of Integrative Biology. 2012,
+    ## 16(5):284-287
 
     ## 
     ## Anexando pacote: 'clusterProfiler'
@@ -18093,9 +18135,9 @@ library(enrichplot)
     ## 
     ## Please cite:
     ## 
-    ## S Xu, E Hu, Y Cai, Z Xie, X Luo, L Zhan, W Tang, Q Wang, B Liu, R Wang,
-    ## W Xie, T Wu, L Xie, G Yu. Using clusterProfiler to characterize
-    ## multiomics data. Nature Protocols. 2024, doi:10.1038/s41596-024-01020-z
+    ## Guangchuang Yu, Qing-Yu He. ReactomePA: an R/Bioconductor package for
+    ## reactome pathway analysis and visualization. Molecular BioSystems.
+    ## 2016, 12(2):477-479
 
     ## 
     ## Anexando pacote: 'enrichplot'
@@ -18215,29 +18257,33 @@ write.table(enrich_terms, "C:/Users/gecre/OneDrive/Área de Trabalho/Table-outpu
 
 Plot graphics
 
-![](gene-expression_files/figure-gfm/f3-1.png)<!-- -->
-
 ``` r
-# saving figure output
-png ("C:/Users/gecre/OneDrive/Área de Trabalho/Fig3-barplot.png")
+knitr::opts_chunk$set(echo = TRUE)
+
+#Create the barplot
+barplot(enrichGo,
+                            drop = TRUE,
+                            showCategory = 10) +
+  theme(axis.text.y = element_text(size = 12),
+        axis.title.y = element_text(size = 14)) -> f3
+
 print (f3)
-dev.off ()
 ```
 
-    ## png 
-    ##   2
-
-![](gene-expression_files/figure-gfm/f4-1.png)<!-- -->
+![](gene-expression_files/figure-gfm/unnamed-chunk-74-1.png)<!-- -->
 
 ``` r
-# saving figure output
-png ("C:/Users/gecre/OneDrive/Área de Trabalho/Fig4-dotplot.png")
+knitr::opts_chunk$set(echo = TRUE)
+
+#Create the dotplot
+dotplot(enrichGo, showCategory = 10) +
+  theme(axis.text.y = element_text(size = 12),
+        axis.title.y = element_text(size = 14)) -> f4
+
 print (f4)
-dev.off ()
 ```
 
-    ## png 
-    ##   2
+![](gene-expression_files/figure-gfm/unnamed-chunk-75-1.png)<!-- -->
 
 Molecular Function (MF)
 
@@ -18310,26 +18356,30 @@ write.table(enrich_terms, "C:/Users/gecre/OneDrive/Área de Trabalho/Table-outpu
             sep = "\t")
 ```
 
-![](gene-expression_files/figure-gfm/f5-1.png)<!-- -->
-
 ``` r
-# saving figure output
-png ("C:/Users/gecre/OneDrive/Área de Trabalho/Fig5-barplot.png")
+knitr::opts_chunk$set(echo = TRUE)
+
+#Create the barplot
+barplot(enrichGo,
+                            drop = TRUE,
+                            showCategory = 10) +
+  theme(axis.text.y = element_text(size = 12),
+        axis.title.y = element_text(size = 14)) -> f5
+
 print (f5)
-dev.off ()
 ```
 
-    ## png 
-    ##   2
-
-![](gene-expression_files/figure-gfm/f6-1.png)<!-- -->
+![](gene-expression_files/figure-gfm/unnamed-chunk-79-1.png)<!-- -->
 
 ``` r
-# saving figure output
-png ("C:/Users/gecre/OneDrive/Área de Trabalho/Fig6-barplot.png")
+knitr::opts_chunk$set(echo = TRUE)
+
+#Create the dotplot
+dotplot(enrichGo, showCategory = 10) +
+  theme(axis.text.y = element_text(size = 12),
+        axis.title.y = element_text(size = 14)) -> f6
+
 print (f6)
-dev.off ()
 ```
 
-    ## png 
-    ##   2
+![](gene-expression_files/figure-gfm/unnamed-chunk-80-1.png)<!-- -->
