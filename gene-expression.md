@@ -40,7 +40,7 @@ BiocManager::install("DESeq2", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 #Allows access to and integration of biological data from various sources, facilitating the retrieval of information about genes, sequences, and annotations.
@@ -74,7 +74,7 @@ BiocManager::install("biomaRt", dependencies = T, ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 #dplyr - to manipulate data frames
@@ -87,7 +87,7 @@ install.packages("dplyr", ask =F )
     ## pacote 'dplyr' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 #pheatmap - to create some graphs
@@ -100,7 +100,7 @@ install.packages("pheatmap", ask =F)
     ## pacote 'pheatmap' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 #Creates nice looking color  palettes especially for thematic maps
@@ -113,7 +113,7 @@ install.packages("RColorBrewer", ask =F )
     ## pacote 'RColorBrewer' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 # manipulation of data.frame
@@ -126,7 +126,7 @@ install.packages("reshape2", dependencies=T, ask =F )
     ## pacote 'reshape2' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 # creates graphics
@@ -139,7 +139,7 @@ install.packages("ggplot2", ask = F)
     ## pacote 'ggplot2' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 # set ggplot2 parameters
@@ -152,7 +152,7 @@ install.packages("ggrepel", ask =F )
     ## pacote 'ggrepel' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 # creates graphics with analysis
@@ -186,7 +186,7 @@ BiocManager::install ("vsn", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 # works with string layout
@@ -199,7 +199,7 @@ install.packages("stringr", ask = F)
     ## pacote 'stringr' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 # Works with data.frame
@@ -212,7 +212,7 @@ install.packages("reshape2", ask = F)
     ## pacote 'reshape2' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 # access to github packages
@@ -225,7 +225,7 @@ install.packages("devtools", ask =F )
     ## pacote 'devtools' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 # Calculate PCA
@@ -238,7 +238,7 @@ install.packages("FactoMineR", ask =F )
     ## pacote 'FactoMineR' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 # Work PCA data
@@ -291,7 +291,7 @@ BiocManager::install("GEOquery", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 2.  LOADING PACKAGES
 
@@ -17878,7 +17878,7 @@ BiocManager::install("clusterProfiler", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 #database of annotations for human genes, used for identifier conversion and functional annotations
@@ -17912,7 +17912,7 @@ BiocManager::install("org.Hs.eg.db", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 #database of annotations for mouse genes, used for identifier conversion and functional annotations
@@ -17946,7 +17946,7 @@ BiocManager::install("org.Mm.eg.db", ask = F )
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 #Facilitates the manipulation and querying of biological annotation databases in R
@@ -17980,7 +17980,7 @@ BiocManager::install("AnnotationDbi", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 #Allows visualization of gene expression data on metabolic pathway maps
@@ -18014,7 +18014,7 @@ BiocManager::install("pathview", ask = F)
     ## pacote 'testthat' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 #A graphing system for R that enables flexible and aesthetic data visualizations
@@ -18034,7 +18034,7 @@ install.packages("ggpubr", ask = F)
     ## pacote 'ggpubr' desempacotado com sucesso e somas MD5 verificadas
     ## 
     ## Os pacotes binários baixados estão em
-    ##  C:\Users\gecre\AppData\Local\Temp\Rtmp0QGb2C\downloaded_packages
+    ##  C:\Users\gecre\AppData\Local\Temp\RtmpInOFgY\downloaded_packages
 
 ``` r
 #A tool for visualizing the results of functional enrichment analyses, integrating with clusterProfiler
@@ -18060,10 +18060,10 @@ library(clusterProfiler)
     ## 
     ## Please cite:
     ## 
-    ## Guangchuang Yu, Li-Gen Wang, Yanyan Han and Qing-Yu He.
-    ## clusterProfiler: an R package for comparing biological themes among
-    ## gene clusters. OMICS: A Journal of Integrative Biology. 2012,
-    ## 16(5):284-287
+    ## T Wu, E Hu, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan,
+    ## X Fu, S Liu, X Bo, and G Yu. clusterProfiler 4.0: A universal
+    ## enrichment tool for interpreting omics data. The Innovation. 2021,
+    ## 2(3):100141
 
     ## 
     ## Anexando pacote: 'clusterProfiler'
@@ -18135,9 +18135,9 @@ library(enrichplot)
     ## 
     ## Please cite:
     ## 
-    ## Guangchuang Yu, Qing-Yu He. ReactomePA: an R/Bioconductor package for
-    ## reactome pathway analysis and visualization. Molecular BioSystems.
-    ## 2016, 12(2):477-479
+    ## Guangchuang Yu, Li-Gen Wang, and Qing-Yu He. ChIPseeker: an
+    ## R/Bioconductor package for ChIP peak annotation, comparison and
+    ## visualization. Bioinformatics. 2015, 31(14):2382-2383
 
     ## 
     ## Anexando pacote: 'enrichplot'
